@@ -1,7 +1,5 @@
 ### Hi there 👋  I'm Ellyheetov
 
-더 많이 배우기 위해 모르는 것을 드러내려고 노력하는 사람입니다.
-
 I always try not to be afraid to find out what I don't know. To be a better person and a great developer.
 
 
