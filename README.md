@@ -10,4 +10,4 @@ I always try not to be afraid to find out what I don't know. To be a better pers
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellyheetov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ellyheetov&bg_color=30,e2eafc,c1d3fe&title_color=013a63&text_color=353535" alt="ellyheetov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ellyheetov&show_icons=true&bg_color=30,e2eafc,c1d3fe&title_color=013a63&text_color=353535" alt="ellyheetov" /></p>
